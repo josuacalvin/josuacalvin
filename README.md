@@ -1,6 +1,6 @@
 
 #Hi there, <![aaaaa](https://user-images.githubusercontent.com/24898276/178753110-2fb528b7-8442-41f8-9b76-ef922e552f0b.gif)
-img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"/>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p>Welcome to my page! </br> I'm Josua, Student and Tech Enthusiast from <img src=https://cdn-icons-png.flaticon.com/512/323/323372.png width="13"/> <b>Indonesia</b>, currently living in <b>Bali</b>.</p>
